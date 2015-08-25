@@ -4,6 +4,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="send">Add to list</string>
-    <string name="receive">Refresh List</string>
+    <string name="receive">View all devices</string>
     <string name="hintName">Enter your name here</string>
 </resources>
